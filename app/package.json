@@ -8,10 +8,9 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "homepage": "https://your-username.github.io/3d_test",
-      "predeploy": "npm run build",
-      "deploy": "gh-pages -d dist"
-    
+    "homepage": "https://mehakdeep065.github.io/3d_test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
